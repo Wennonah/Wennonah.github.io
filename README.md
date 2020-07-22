@@ -2,7 +2,7 @@
 
 
 
-![112](images\1.jpg)
+![](https://github.com/Wennonah/Wennonah.github.io/tree/master/images/1.jpg)
 
 ![](.\images\2.jpg)
 
