@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Wennonah's home page</title>
+</head>
+
+<body style="margin:0;">
+	<div id='mybody' style="margin:50px auto; width:1200px;">
+	<script>
+		var count = 51;
+		var imagePath = './images/';
+		for (var i = 1; i <= count; i++)
+		{
+			var img = document.createElement('img');
+			img.src = imagePath + i + '.png';
+			img.style.width = '1200px';
+			img.style.height = '100%';
+
+			var mybody = document.getElementById('mybody');
+			mybody.appendChild(img);
+		}
+	</script>
+	</div>
+</body>
+
+</html>

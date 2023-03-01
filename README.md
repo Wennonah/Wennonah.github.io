@@ -1,46 +1,39 @@
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/1.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/2.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/3.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/4.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/5.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/6.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/7.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/8.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/9.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/10.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/11.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/12.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/13.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/14.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/15.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/16.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/17.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/18.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/19.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/20.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/21.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/22.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/23.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/24.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/25.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/26.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/27.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/28.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/29.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/30.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/31.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/32.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/33.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/34.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/35.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/36.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/37.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/38.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/39.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/40.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/41.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/42.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/43.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/44.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/45.jpg)
-![](https://github.com/Wennonah/Wennonah.github.io/raw/master/images/46.jpg)
+# Wennonah.gitee.io
+
+#### 介绍
+{**以下是码云平台说明，您可以替换此简介**
+码云是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
+无论是个人、团队、或是企业，都能够用码云实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+
+#### 软件架构
+软件架构说明
+
+
+#### 安装教程
+
+1.  xxxx
+2.  xxxx
+3.  xxxx
+
+#### 使用说明
+
+1.  xxxx
+2.  xxxx
+3.  xxxx
+
+#### 参与贡献
+
+1.  Fork 本仓库
+2.  新建 Feat_xxx 分支
+3.  提交代码
+4.  新建 Pull Request
+
+
+#### 码云特技
+
+1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
+2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
+3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
+4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
+5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
+6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
